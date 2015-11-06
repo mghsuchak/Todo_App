@@ -1,1 +1,1 @@
- A Todo application(built in Ruby on Rails) with the ability to create multiple Todo lists and multiple Todo items for each list, and also the ability to mark an item as complete.
+A Todo application(built in Ruby on Rails) with the ability to create multiple Todo lists and multiple Todo items for each list, and also the ability to mark an item as complete.
